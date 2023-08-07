@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Refactors>
+  <Renames>
+    <RenamedType>
+      <Type guid="a2da1341-2a89-43f6-a974-acbc9590e668">POU</Type>
+      <From>POU</From>
+      <To>Axis</To>
+    </RenamedType>
+  </Renames>
+</Refactors>
